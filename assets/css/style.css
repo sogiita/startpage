@@ -84,7 +84,7 @@ filter: hue-rotate(var(--hue-rotate)) saturate(2) contrast(1.2);
 
 html.eldenring-potboy {
 
---image: url(../media/eldenring/potboy.gif);
+--image: url(../media/eldenring/potboy.png);
 --image-filter: hue-rotate(calc(var(--hue-rotate) / -1)) saturate(0.4) contrast(1.1);
 --color-link: #9c97a0;
 --color-link-visited: #ffcccc;
